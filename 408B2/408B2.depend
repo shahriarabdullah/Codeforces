@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1524148881 source:e:\codeforces\408b2\main.cpp
+	<iostream>
+	<map>
+	<set>
+

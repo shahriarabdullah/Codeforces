@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1524325763 source:e:\codeforces\samp2\main.cpp
+	<iostream>
+	<algorithm>
+
